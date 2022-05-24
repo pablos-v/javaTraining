@@ -10,7 +10,7 @@
 
 public class task2 {
     public static void main(String[] args) {
-        System.out.println(counter(1, 7, 2, 1));
+        System.out.println(counter(3, 28, 3, 1));
         if (test()) System.out.println("Tests passed!");
     }
 
