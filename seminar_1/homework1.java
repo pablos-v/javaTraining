@@ -16,23 +16,23 @@
 // } ПОДОГНАЛ))))
 // ------------var2-----------------------
 
-public class homework1 {
-    public static void main(String[] args) {
-        int n = 2;
-        int k = 3;
-        int[] arr = new int[(int)Math.pow(k,n)];
-        generate(2, 3);
-    }
+// public class homework1 {
+//     public static void main(String[] args) {
+//         int n = 2;
+//         int k = 3;
+//         int[] arr = new int[(int)Math.pow(k,n)];
+//         generate(2, 3);
+//     }
 
-    static void generate(int n, int k) {
+//     static void generate(int n, int k) {
 
-       for (int ii = 0; ii < k; ii++) {
-            for (int i = 0; i < n; i++) {
-                arr[j] = k-1
-            }
-       }
-    }
-}
+//        for (int ii = 0; ii < k; ii++) {
+//             for (int i = 0; i < n; i++) {
+//                 arr[j] = k-1
+//             }
+//        }
+//     }
+// }
 // ------------------------------------------------
 // Given an integer number n, return the difference between the product of 
 // its digits and the sum of its digits.
